@@ -1,0 +1,37 @@
+
+body{background-color: black;
+
+    margin: 0;
+text-align: center;
+}
+p{color: whitesmoke;}
+div{background-color: black;}
+body{margin: 0;
+text-align: center;}
+.top-container{
+     position: relative;
+     background-color: black;
+}
+h1{
+    font-family:'Preconnect', sans-serif;
+}
+.circular-square{
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    float:left;
+    margin-right: 30px;
+}
+h1{color: white;}
+h2{color: white;}
+h3{color: white;}
+h4{color: white;}
+p{color: white;}
+h1{
+    font-size: 50px;
+}
+.paragraph-1{
+    clear: left;
+}
+
